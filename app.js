@@ -85,16 +85,16 @@ var T={
     admin:{title:'Admin Dashboard',dash:'Dashboard',hp:'Homepage',menuM:'Menu',res:'Reservations',totalIt:'Menu Items',totalCat:'Categories',pendRes:'Pending',totalRes:'Total',hero:'Hero Section',featIt:'Featured Items',aboutSec:'About',contactSec:'Contact Info',cats:'Categories',menuIt:'Menu Items',addIt:'Add Item',addCat:'Add Category',edit:'Edit',delete:'Delete',save:'Save',cancel:'Cancel',confirm:'Confirm',uploadImg:'Upload Image',name:'Name',desc:'Description',price:'Price',category:'Category',available:'Available',yes:'Yes',no:'No',actions:'Actions',gName:'Guest',gEmail:'Email',gPhone:'Phone',date:'Date',time:'Time',sz:'Party',status:'Status',notes:'Notes',pending:'Pending',confirmed:'Confirmed',cancelled:'Cancelled',noImg:'No image',uploaded:'Image uploaded!',sOrder:'Sort Order',subtitle:'Subtitle',titleL:'Title'}
   },
   zh:{
-    nav:{home:'é¦–é¡µ',menu:'èœå•',reservation:'é¢„è®¢',about:'å…³äºŽæˆ‘ä»¬',contact:'è”ç³»æˆ‘ä»¬',login:'ç™»å½•',logout:'é€€å‡º',admin:'ç®¡ç†åŽå°',profile:'ä¸ªäººèµ„æ–™'},
-    home:{tagline:'åœ¨è¿™ä¸ªè§’è½ï¼Œæ„Ÿå—æ‰‹å†²å’–å•¡ä¸ŽçŽ°ä»£å¨˜æƒ¹é£Žå‘³çš„ç¢°æ’žã€‚',bookNow:'ç«‹å³é¢„è®¢',viewMenu:'æŸ¥çœ‹èœå•',featured:'æ‹›ç‰ŒæŽ¨è'},
-    menu:{title:'æˆ‘ä»¬çš„èœå•',all:'å…¨éƒ¨',price:'RM'},
-    res:{title:'é¢„è®¢åº§ä½',name:'å§“å',email:'é‚®ç®±',phone:'ç”µè¯',date:'æ—¥æœŸ',time:'æ—¶é—´',size:'äººæ•°',notes:'å¤‡æ³¨',submit:'ç¡®è®¤é¢„è®¢',okTitle:'é¢„è®¢æˆåŠŸï¼',okDesc:'æˆ‘ä»¬å·²æ”¶åˆ°æ‚¨çš„é¢„è®¢è¯·æ±‚ï¼ŒæœŸå¾…æ‚¨çš„å…‰ä¸´ã€‚',another:'å†æ¬¡é¢„è®¢'},
-    about:{title:'å…³äºŽä¸‰è„šçŒ«'},
-    contact:{title:'è”ç³»æˆ‘ä»¬',address:'åœ°å€',hours:'è¥ä¸šæ—¶é—´',phone:'ç”µè¯',email:'é‚®ç®±'},
-    login:{title:'ç™»å½•',email:'é‚®ç®±',password:'å¯†ç ',submit:'ç™»å½•',error:'é‚®ç®±æˆ–å¯†ç é”™è¯¯'},
-    register:{title:'æ³¨å†Œ',name:'å§“å',email:'é‚®ç®±',password:'å¯†ç ',confirmPass:'ç¡®è®¤å¯†ç ',submit:'åˆ›å»ºè´¦å·',noAccount:'è¿˜æ²¡æœ‰è´¦å·ï¼Ÿ',hasAccount:'å·²æœ‰è´¦å·ï¼Ÿ',regInstead:'ç«‹å³æ³¨å†Œ',loginInstead:'è¿”å›žç™»å½•',success:'è´¦å·å·²åˆ›å»ºï¼çŽ°åœ¨å¯ä»¥ç™»å½•äº†ã€‚',passMismatch:'ä¸¤æ¬¡è¾“å…¥çš„å¯†ç ä¸ä¸€è‡´',confirmSent:'ç¡®è®¤é‚®ä»¶å·²å‘é€ï¼Œè¯·æŸ¥æ”¶é‚®ç®±ã€‚'},
-    profile:{title:'ä¸ªäººèµ„æ–™',avatar:'å¤´åƒ',upload:'ä¸Šä¼ å¤´åƒ',save:'ä¿å­˜ä¿®æ”¹',saved:'èµ„æ–™å·²æ›´æ–°ï¼',name:'å§“å',email:'é‚®ç®±',noLogin:'è¯·å…ˆç™»å½•åŽå†æŸ¥çœ‹ä¸ªäººèµ„æ–™ã€‚'},
-    admin:{title:'ç®¡ç†åŽå°',dash:'æ¦‚è§ˆ',hp:'é¦–é¡µå†…å®¹',menuM:'èœå•ç®¡ç†',res:'é¢„è®¢ç®¡ç†',totalIt:'èœå“æ•°',totalCat:'åˆ†ç±»æ•°',pendRes:'å¾…å¤„ç†',totalRes:'æ€»é¢„è®¢',hero:'é¦–å±åŒºåŸŸ',featIt:'æŽ¨èèœå“',aboutSec:'å…³äºŽæˆ‘ä»¬',contactSec:'è”ç³»ä¿¡æ¯',cats:'åˆ†ç±»',menuIt:'èœå“',addIt:'æ·»åŠ èœå“',addCat:'æ·»åŠ åˆ†ç±»',edit:'ç¼–è¾‘',delete:'åˆ é™¤',save:'ä¿å­˜',cancel:'å–æ¶ˆ',confirm:'ç¡®è®¤',uploadImg:'ä¸Šä¼ å›¾ç‰‡',name:'åç§°',desc:'æè¿°',price:'ä»·æ ¼',category:'åˆ†ç±»',available:'ä¸Šæž¶',yes:'æ˜¯',no:'å¦',actions:'æ“ä½œ',gName:'å§“å',gEmail:'é‚®ç®±',gPhone:'ç”µè¯',date:'æ—¥æœŸ',time:'æ—¶é—´',sz:'äººæ•°',status:'çŠ¶æ€',notes:'å¤‡æ³¨',pending:'å¾…ç¡®è®¤',confirmed:'å·²ç¡®è®¤',cancelled:'å·²å–æ¶ˆ',noImg:'æš‚æ— å›¾ç‰‡',uploaded:'å›¾ç‰‡å·²ä¸Šä¼ ï¼',sOrder:'æŽ’åº',subtitle:'å‰¯æ ‡é¢˜',titleL:'æ ‡é¢˜'}
+    nav:{home:'首页',menu:'菜单',reservation:'预订',about:'关于我们',contact:'联系我们',login:'登录',logout:'退出',admin:'管理后台',profile:'个人资料'},
+    home:{tagline:'在这个角落，感受手冲咖啡与现代娘惹风味的碰撞。',bookNow:'立即预订',viewMenu:'查看菜单',featured:'招牌推荐'},
+    menu:{title:'我们的菜单',all:'全部',price:'RM'},
+    res:{title:'预订座位',name:'姓名',email:'邮箱',phone:'电话',date:'日期',time:'时间',size:'人数',notes:'备注',submit:'确认预订',okTitle:'预订成功！',okDesc:'我们已收到您的预订请求，期待您的光临。',another:'再次预订'},
+    about:{title:'关于三脚猫'},
+    contact:{title:'联系我们',address:'地址',hours:'营业时间',phone:'电话',email:'邮箱'},
+    login:{title:'登录',email:'邮箱',password:'密码',submit:'登录',error:'邮箱或密码错误'},
+    register:{title:'注册',name:'姓名',email:'邮箱',password:'密码',confirmPass:'确认密码',submit:'创建账号',noAccount:'还没有账号？',hasAccount:'已有账号？',regInstead:'立即注册',loginInstead:'返回登录',success:'账号已创建！现在可以登录了。',passMismatch:'两次输入的密码不一致',confirmSent:'确认邮件已发送，请查收邮箱。'},
+    profile:{title:'个人资料',avatar:'头像',upload:'上传头像',save:'保存修改',saved:'资料已更新！',name:'姓名',email:'邮箱',noLogin:'请先登录后再查看个人资料。'},
+    admin:{title:'管理后台',dash:'概览',hp:'首页内容',menuM:'菜单管理',res:'预订管理',totalIt:'菜品数',totalCat:'分类数',pendRes:'待处理',totalRes:'总预订',hero:'首页区域',featIt:'推荐菜品',aboutSec:'关于我们',contactSec:'联系信息',cats:'分类',menuIt:'菜品',addIt:'添加菜品',addCat:'添加分类',edit:'编辑',delete:'删除',save:'保存',cancel:'取消',confirm:'确认',uploadImg:'上传图片',name:'名称',desc:'描述',price:'价格',category:'分类',available:'上架',yes:'是',no:'否',actions:'操作',gName:'姓名',gEmail:'邮箱',gPhone:'电话',date:'日期',time:'时间',sz:'人数',status:'状态',notes:'备注',pending:'待确认',confirmed:'已确认',cancelled:'已取消',noImg:'暂无图片',uploaded:'图片已上传！',sOrder:'排序',subtitle:'副标题',titleL:'标题'}
   },
   ms:{
     nav:{home:'Utama',menu:'Menu',reservation:'Tempahan',about:'Tentang Kami',contact:'Hubungi Kami',login:'Log Masuk',logout:'Log Keluar',admin:'Admin',profile:'Profil Saya'},
@@ -180,8 +180,8 @@ function renderNav(){
   var h=location.hash.replace('#/','').split('?')[0]||'home';
   var items=[{l:t('nav.home'),href:'#/'},{l:t('nav.menu'),href:'#/menu'},{l:t('nav.reservation'),href:'#/reservation'},{l:t('nav.about'),href:'#/about'}];
   var links=items.map(function(it){var a=h===it.href.replace('#/','')?' active':'';return '<a href="'+it.href+'" class="nav-l'+a+'">'+it.l+'</a>'}).join('');
-  var ll=lang==='zh'?'ä¸­æ–‡':lang==='ms'?'BM':'EN';
-  var lo=LANGS.map(function(l){var lb=l==='zh'?'ä¸­æ–‡':l==='ms'?'Bahasa Malaysia':'English';var s=l===lang?' sel':'';return '<a href="#" data-lang="'+l+'" class="dd-item'+s+'">'+lb+'</a>'}).join('');
+  var ll=lang==='zh'?'中文':lang==='ms'?'BM':'EN';
+  var lo=LANGS.map(function(l){var lb=l==='zh'?'中文':l==='ms'?'Bahasa Malaysia':'English';var s=l===lang?' sel':'';return '<a href="#" data-lang="'+l+'" class="dd-item'+s+'">'+lb+'</a>'}).join('');
 
   /* ===== MODIFIED: avatar button ===== */
   var auth='';
@@ -210,11 +210,11 @@ function renderNav(){
   }else{
     mauth='<a href="#/login" class="btn btn-p btn-fw" onclick="toggleMob()">'+t('nav.login')+'</a>'
   }
-  var mlangs=LANGS.map(function(l){var lb=l==='zh'?'ä¸­æ–‡':l==='ms'?'BM':'EN';var s=l===lang?' active':'';return '<button class="lang-chip'+s+'" onclick="setLang(\''+l+'\')">'+lb+'</button>'}).join('');
+  var mlangs=LANGS.map(function(l){var lb=l==='zh'?'中文':l==='ms'?'BM':'EN';var s=l===lang?' active':'';return '<button class="lang-chip'+s+'" onclick="setLang(\''+l+'\')">'+lb+'</button>'}).join('');
 
   document.getElementById('navbar').innerHTML=
     '<nav class="navbar"><div class="ctn navbar-i">'+
-    '<a href="#/" class="nav-logo"><span class="logo-z">ä¸‰è„šçŒ«</span><span class="logo-e">3 Leg Cat</span></a>'+
+    '<a href="#/" class="nav-logo"><span class="logo-z">三脚猫</span><span class="logo-e">3 Leg Cat</span></a>'+
     '<div class="nav-links">'+links+'</div>'+
     '<div class="nav-acts">'+
     '<div class="dd" id="ldd"><button class="btn btn-g btn-sm" onclick="toggleDD(\'ldd\')"><svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M2 12h20M12 2a15.3 15.3 0 014 10 15.3 15.3 0 01-4 10 15.3 15.3 0 01-4-10 15.3 15.3 0 014-10z"/></svg> '+ll+'</button><div class="dd-menu">'+lo+'</div></div>'+
@@ -224,7 +224,7 @@ function renderNav(){
     '</div></nav>'+
     '<div class="m-overlay" id="m-ov" onclick="toggleMob()"></div>'+
     '<div class="m-panel" id="m-panel">'+
-    '<div class="m-hdr"><div><span class="logo-z">ä¸‰è„šçŒ«</span><br><span class="logo-e">3 Leg Cat</span></div><button class="m-close" onclick="toggleMob()"><svg width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M18 6L6 18M6 6l12 12"/></svg></button></div>'+
+    '<div class="m-hdr"><div><span class="logo-z">三脚猫</span><br><span class="logo-e">3 Leg Cat</span></div><button class="m-close" onclick="toggleMob()"><svg width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M18 6L6 18M6 6l12 12"/></svg></button></div>'+
     '<div class="m-links">'+ml+'<a href="#/contact" class="m-link" onclick="toggleMob()">'+t('nav.contact')+'</a></div>'+
     '<div class="m-foot">'+mauth+'<div class="m-lang">'+mlangs+'</div></div>'+
     '</div>';
@@ -235,7 +235,7 @@ function renderFooter(){
   document.getElementById('footer').innerHTML=
     '<footer class="footer"><div class="ctn">'+
     '<div class="f-grid">'+
-    '<div><a href="#/" class="nav-logo"><span class="logo-z">ä¸‰è„šçŒ«</span><span class="logo-e">3 Leg Cat</span></a><p class="f-desc">'+t('home.tagline')+'</p></div>'+
+    '<div><a href="#/" class="nav-logo"><span class="logo-z">三脚猫</span><span class="logo-e">3 Leg Cat</span></a><p class="f-desc">'+t('home.tagline')+'</p></div>'+
     '<div><h4 class="f-heading">Explore</h4><a href="#/" class="f-link">'+t('nav.home')+'</a><a href="#/menu" class="f-link">'+t('nav.menu')+'</a><a href="#/reservation" class="f-link">'+t('nav.reservation')+'</a><a href="#/about" class="f-link">'+t('nav.about')+'</a></div>'+
     '<div><h4 class="f-heading">'+t('contact.title')+'</h4><p class="f-text">'+(lf(contactD,'address')||'123 Heritage Lane,<br>Georgetown, 10200<br>Penang, Malaysia')+'</p><p class="f-text mt1">'+(contactD.email||'hello@3legcat.com')+'<br>'+(contactD.phone||'+60 12-345 6789')+'</p></div>'+
     '</div>'+
